@@ -1,0 +1,11 @@
+2024-06-26 21:55:11 - Server started on port 1234
+2024-06-26 21:55:19 - Request from 127.0.0.1: GET /
+2024-06-26 21:55:19 - 200 OK: C:\Users\LENOVO LEGION\OneDrive\Desktop\portofolio\Web pembelajaran_(Fisika_usaha)/index.html
+2024-06-26 21:55:19 - Request from 127.0.0.1: GET /style.css
+2024-06-26 21:55:19 - 200 OK: C:\Users\LENOVO LEGION\OneDrive\Desktop\portofolio\Web pembelajaran_(Fisika_usaha)/style.css
+2024-06-26 21:55:19 - Request from 127.0.0.1: GET /img/logo.png
+2024-06-26 21:55:19 - 200 OK: C:\Users\LENOVO LEGION\OneDrive\Desktop\portofolio\Web pembelajaran_(Fisika_usaha)/img/logo.png
+2024-06-26 21:55:19 - Request from 127.0.0.1: GET /img/home.png
+2024-06-26 21:55:19 - 200 OK: C:\Users\LENOVO LEGION\OneDrive\Desktop\portofolio\Web pembelajaran_(Fisika_usaha)/img/home.png
+2024-06-26 21:55:19 - Request from 127.0.0.1: GET /img/bg.jpg
+2024-06-26 21:55:19 - 200 OK: C:\Users\LENOVO LEGION\OneDrive\Desktop\portofolio\Web pembelajaran_(Fisika_usaha)/img/bg.jpg
