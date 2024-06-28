@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SimpleWebServerApp",
+            "request": "launch",
+            "mainClass": "SimpleWebServerApp",
+            "projectName": "Simple_Web_Server"
+        }
+    ]
+}
